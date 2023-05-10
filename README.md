@@ -67,17 +67,45 @@
 </details>
 
 ### [📃 Extra Programs](/ExtraPrograms)
-  * [Delete Encrypted](ExtraPrograms/Delete%20Encrypted.py)
+<details>
+<summary>Order by Chapter</summary>
 
-  * [Practice Question](ExtraPrograms/Practice%20Questions.py)
-  
-  * [Py Copy](ExtraPrograms/Py%20Copy.py)
-  
-  * [Zip](ExtraPrograms/Zip.py)
+#### Chapter 03
 
+
+
+#### Chapter 04
+
+
+
+#### Chapter 05
+
+
+
+#### Chapter 06
+
+
+
+#### Chapter 07
+
+
+
+#### Chapter 08
+
+
+
+#### Chapter 09
+
+
+
+#### Chapter 10
+
+
+
+</details>
 
 
 
 >Comments about the book:
-
+>
 >This was the first book I used when learning Python and I highly recommend it. I had little programming experience before with Excel VBA, MatLab and C++. Progamming languages are similar, but can also be very different for each one. Automate The Boring Stuff uses IDLE as the main source of writing code. While not needed, I HIGHLY suggest using an IDE, especially if you are new to programming. It will help you prevent making mistakes as well as trying to learn PEP 8 guidelines as you go. For this book I used Pycharm, my favorite IDE. However, you can search for something that fits your needs. 
