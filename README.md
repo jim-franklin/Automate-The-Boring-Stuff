@@ -12,7 +12,6 @@
 ## 📚 Table of Contents
 
 ### 📃 Practice Projects
-
 <details>
 <summary>Order by Chapter</summary>
 
@@ -66,7 +65,7 @@
 
 </details>
 
-### [📃 Extra Programs]
+### 📃 Extra Programs
 <details>
 <summary>Order by Chapter</summary>
 
