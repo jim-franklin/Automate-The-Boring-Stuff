@@ -66,6 +66,15 @@
 
 </details>
 
+### [📃 Extra Programs](/ExtraPrograms)
+  * [Delete Encrypted](ExtraPrograms/Delete%20Encrypted.py)
+
+  * [Practice Question](ExtraPrograms/Practice%20Questions.py)
+  
+  * [Py Copy](ExtraPrograms/Py%20Copy.py)
+  
+  * [Zip](ExtraPrograms/Zip.py)
+
 
 
 
