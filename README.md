@@ -1,7 +1,7 @@
 # Automate the Boring Stuff
-I created a bunch of solutions for Automate The Boring Stuff that come with extra programs to help make it easier for you to get through the book. Automate The Boring Stuff With Python is written by Al Sweigart and is available online at https://automatetheboringstuff.com/ or for purchase at https://nostarch.com/automatestuff or Amazon.
+>I created a bunch of solutions for Automate The Boring Stuff that come with extra programs to help make it easier for you to get through the book. Automate The Boring Stuff With Python is written by Al Sweigart and is available online at https://automatetheboringstuff.com/ or for purchase at https://nostarch.com/automatestuff or Amazon.
 
-The book is meant for people who are new to programming and want to learn how to write programs that can help with everyday tasks. Throughout the book, Sweigart gives you projects to practice with, and I completed almost all of them and put them online for you to see.
+>The book is meant for people who are new to programming and want to learn how to write programs that can help with everyday tasks. Throughout the book, Sweigart gives you projects to practice with, and I completed almost all of them and put them online for you to see.
 
 >It's worth noting that while my solutions work, there are probably better ways to achieve the same results. I only used what I learned from the book to keep things familiar. Some of the chapters are outdated and the modules may have different syntax now, but I tried my best to point out any changes in the code. If you run into any issues with my code, let me know and I'll try to update it to accommodate new versions.
 
@@ -70,4 +70,4 @@ The book is meant for people who are new to programming and want to learn how to
 
 
 >Comments about the book:
-This was the first book I used when learning Python and I highly recommend it. I had little programming experience before with Excel VBA, MatLab and C++. Progamming languages are similar, but can also be very different for each one. Automate The Boring Stuff uses IDLE as the main source of writing code. While not needed, I HIGHLY suggest using an IDE, especially if you are new to programming. It will help you prevent making mistakes as well as trying to learn PEP 8 guidelines as you go. For this book I used Pycharm, my favorite IDE. However, you can search for something that fits your needs. 
+>This was the first book I used when learning Python and I highly recommend it. I had little programming experience before with Excel VBA, MatLab and C++. Progamming languages are similar, but can also be very different for each one. Automate The Boring Stuff uses IDLE as the main source of writing code. While not needed, I HIGHLY suggest using an IDE, especially if you are new to programming. It will help you prevent making mistakes as well as trying to learn PEP 8 guidelines as you go. For this book I used Pycharm, my favorite IDE. However, you can search for something that fits your needs. 
