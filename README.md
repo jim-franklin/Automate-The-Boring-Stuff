@@ -11,7 +11,7 @@
 
 ## 📚 Table of Contents
 
-### 📃 Practice Project
+### 📃 Practice Projects
 
 <details>
 <summary>Order by Chapter</summary>
