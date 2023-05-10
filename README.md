@@ -66,7 +66,7 @@
 
 </details>
 
-### [📃 Extra Programs](/ExtraPrograms)
+### [📃 Extra Programs]
 <details>
 <summary>Order by Chapter</summary>
 
