@@ -8,4 +8,5 @@ It's worth noting that while my solutions work, there are probably better ways t
 
 I also added comments to my code to explain what's happening and why I did certain things. Subscribe to my YouTube channel (https://www.youtube.com/@jimfrvnklin) for more details on how the code works. I hope that putting everything together will make it easier for you.
 
-Lastly, I'm not a professional programmer, I've only taken one intro class in college and taught myself the rest. So I apologize if there are any mistakes in my code. I did my best to follow the PEP 8 guidelines when writing it, and I welcome any comments or suggestions you may have.
+>Lastly, I'm not a professional programmer, I've only taken one intro class in college and taught myself the rest. So I apologize if there are any mistakes in my code. I did my best to follow the PEP 8 guidelines when writing it, and I welcome any comments or suggestions you may have.
+
