@@ -7,7 +7,7 @@ The book is meant for people who are new to programming and want to learn how to
 
 >I also added comments to my code to explain what's happening and why I did certain things. Subscribe to my YouTube channel (https://www.youtube.com/@jimfrvnklin) for more details on how the code works. I hope that putting everything together will make it easier for you.
 
->Lastly, I'm not a professional programmer, I've only taken one intro class in college and taught myself the rest. So I apologize if there are any mistakes in my code. I did my best to follow the PEP 8 guidelines when writing it, and I welcome any comments or suggestions you may have.
+>Lastly, I'm not a professional programmer, I've only taken one intro to programming in university and taught myself the rest. So I apologize if there are any mistakes in my code. I did my best to follow the PEP 8 guidelines when writing it, and I welcome any comments or suggestions you may have.
 
 ## 📚 Table of Contents
 
@@ -67,5 +67,7 @@ The book is meant for people who are new to programming and want to learn how to
 </details>
 
 
->>Comments about the book:
+
+
+>Comments about the book:
 This was the first book I used when learning Python and I highly recommend it. I had little programming experience before with Excel VBA, MatLab and C++. Progamming languages are similar, but can also be very different for each one. Automate The Boring Stuff uses IDLE as the main source of writing code. While not needed, I HIGHLY suggest using an IDE, especially if you are new to programming. It will help you prevent making mistakes as well as trying to learn PEP 8 guidelines as you go. For this book I used Pycharm, my favorite IDE. However, you can search for something that fits your needs. 
