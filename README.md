@@ -1,3 +1,5 @@
+# Automate the Boring Stuff
+
 I created a bunch of solutions for Automate The Boring Stuff that come with extra programs to help make it easier for you to get through the book. Automate The Boring Stuff With Python is written by Al Sweigart and is available online at https://automatetheboringstuff.com/ or for purchase at https://nostarch.com/automatestuff or Amazon.
 
 The book is meant for people who are new to programming and want to learn how to write programs that can help with everyday tasks. Throughout the book, Sweigart gives you projects to practice with, and I completed almost all of them and put them online for you to see.
