@@ -1,8 +1,8 @@
 def collatz(integer):
     if integer % 2 == 0:
         return integer // 2
-    elif integer % 2 == 1:
-        return 3 * integer + 1
+    # elif integer % 2 == 1:
+    return 3 * integer + 1
 
 
 print('Enter number:')
