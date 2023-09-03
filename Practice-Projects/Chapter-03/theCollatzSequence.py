@@ -7,6 +7,7 @@ def collatz(integer):
 
 print('Enter number:')
 print('jim')
+print()
 try:
     number = int(input())
     print('Collatz Sequence:')
