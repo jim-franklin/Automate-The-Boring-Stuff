@@ -9,6 +9,7 @@ print('Enter number:')
 print()
 print("jim")
 print()
+# jim
 try:
     number = int(input())
     print('Collatz Sequence:')
