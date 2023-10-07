@@ -23,9 +23,9 @@
 
 #### Chapter 04
 
-- [Character Picture Grid](Practice-Projects/Ch%2004%20-%20Character%20Picture%20Grid.py)
+- [Comma Code](Practice-Projects/Chapter-04/comma_code.py)
 
-- [Comma Code](Practice-Projects/Ch%2004%20-%20Comma%20Code.py)
+- [Character Picture Grid](Practice-Projects/Ch%2004%20-%20Character%20Picture%20Grid.py)
 
 #### Chapter 05
 
