@@ -105,6 +105,6 @@
 
 
 
->Comments about the book:
+>Remark:
 >
->This was the first book I used when learning Python and I highly recommend it. I had little programming experience before with Excel VBA, MatLab and C++. Progamming languages are similar, but can also be very different for each one. Automate The Boring Stuff uses IDLE as the main source of writing code. While not needed, I HIGHLY suggest using an IDE, especially if you are new to programming. It will help you prevent making mistakes as well as trying to learn PEP 8 guidelines as you go. For this book I used Pycharm, my favorite IDE. However, you can search for something that fits your needs. 
+>This was the first book I used when learning Python and I highly recommend it. I had little programming experience before with Excel VBA, MatLab and C++. Automate The Boring Stuff uses IDLE as the main source of writing code and I personally used Pycharm by JetBrains. VS Code by Microsoft is an alternative IDE you can use. I highly suggest you use an IDE, especially if you are new to programming. It will help you prevent making mistakes as well as familiarizing yourself with the PEP 8 guidelines. 
