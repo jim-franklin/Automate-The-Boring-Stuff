@@ -1,5 +1,5 @@
 # Automate the Boring Stuff
->This collection of solutions to the practice projects found in "Automate the Boring Stuff with Python" by Al Sweigart will help you navigate through the book successfully. You can access Al Sweigart's book online at https://automatetheboringstuff.com/ or purchase it from https://nostarch.com/automatestuff or Amazon.
+>This collection of solutions to the practice projects found in "Automate the Boring Stuff with Python" by Al Sweigart will help you navigate through the book successfully. You can access the book online at https://automatetheboringstuff.com/ or purchase it from https://nostarch.com/automatestuff or Amazon.
 
 >The book is meant for people who are new to programming and want to learn how to write programs that can help with everyday tasks. Throughout the book, Al Sweigart gives you projects to practice with, and I completed almost all of them and put them online for you to see.
 
