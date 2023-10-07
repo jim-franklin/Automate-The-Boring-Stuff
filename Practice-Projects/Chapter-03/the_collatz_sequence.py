@@ -17,6 +17,6 @@ try:
         # the collatz function is called and its return value assigned to the variable, number
         number = collatz(number)    
         print(number) 
-        
+
 except ValueError:
     print('Error: You must Enter an integer.')
