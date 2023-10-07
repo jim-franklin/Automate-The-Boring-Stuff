@@ -14,7 +14,7 @@ try:
     print(user_number)
     
     # the while loop breaks out when number = 1
-    while user_number != 1:
+    while number != 1:
         # the collatz function is called and its return value assigned to the variable, number
         number = collatz(user_number)    
         print(number) 
