@@ -1,3 +1,6 @@
+# Add try and except statements to the previous project to detect whether 
+# the user types in a noninteger string
+
 def collatz(integer):
     # Check if even
     if integer % 2 == 0:
@@ -14,7 +17,8 @@ try:
     
     # the while loop breaks out when number = 1
     while number > 1:
-        # the collatz function is called and its return value assigned to the variable, number
+        # the collatz function is called and its return value assigned to 
+        # the variable, number
         number = collatz(number)    
         print(number) 
 
