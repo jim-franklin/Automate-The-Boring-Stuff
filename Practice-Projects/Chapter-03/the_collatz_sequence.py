@@ -9,14 +9,14 @@ def collatz(integer):
 
 print('Enter number:')
 try:
-    user_number = input()    # ask user for input
-    user_number = int(user_number)    # convert user input (sting value) to integer
-    print(user_number)
+    number = input()    # ask user for input
+    number = int(number)    # convert user input (sting value) to integer
+    print(number)
     
     # the while loop breaks out when number = 1
     while number != 1:
         # the collatz function is called and its return value assigned to the variable, number
-        number = collatz(user_number)    
+        number = collatz(number)    
         print(number) 
         
 except ValueError:
