@@ -19,6 +19,8 @@
 
 - [The Collatz Sequence](Practice-Projects/Chapter-03/the_collatz_sequence.py)
 
+- [Input Validation](Practice-Projects/Chapter-03/input_validation.py)
+
 #### Chapter 04
 
 - [Character Picture Grid](Practice-Projects/Ch%2004%20-%20Character%20Picture%20Grid.py)
