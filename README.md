@@ -17,7 +17,7 @@
 
 #### Chapter 03
 
-- [Collatz Sequence](Practice-Projects/Chapter-03/theCollatzSequence.py)
+- [Collatz Sequence](Practice-Projects/Chapter-03/the_collatz_sequence.py)
 
 #### Chapter 04
 
