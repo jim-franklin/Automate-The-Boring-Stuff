@@ -11,10 +11,9 @@ print('Enter number:')
 try:
     number = input()    # ask user for input
     number = int(number)    # convert user input (sting value) to integer
-    print(number)
     
     # the while loop breaks out when number = 1
-    while number != 1:
+    while number > 1:
         # the collatz function is called and its return value assigned to the variable, number
         number = collatz(number)    
         print(number) 
