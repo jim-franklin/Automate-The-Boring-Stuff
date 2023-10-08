@@ -14,6 +14,6 @@ for x in range(6):
         # y iteration values are printed on the same line
         print(grid[y][x], end='')
     
-    # Start x iteration on a newline
+    # Print newline where x iteration will begin
     print()
     
