@@ -16,5 +16,4 @@ for x in range(6):
     
     # Start x iteration on a newline
     print()
-            
-
+    
