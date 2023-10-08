@@ -25,6 +25,8 @@
 
 - [Comma Code](Practice-Projects/Chapter-04/comma_code.py)
 
+- [Coin Flip Streaks](Practice-Projects/Chapter-04/coin_flip_streaks.py)
+
 - [Character Picture Grid](Practice-Projects/Chapter-04/character_picture_grid.py)
 
 #### Chapter 05
