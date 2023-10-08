@@ -1,9 +1,7 @@
 # Automate the Boring Stuff
 >This collection of solutions to the practice projects found in the second edition of "Automate the Boring Stuff with Python" by Al Sweigart, will help you navigate through the book successfully. You can access the book online at https://automatetheboringstuff.com/ or purchase it from https://nostarch.com/automatestuff or Amazon.
 
->The book is meant for people who are new to programming and want to learn how to write programs that can help with everyday tasks. Throughout the book, Al Sweigart gives you projects to practice with, and I completed almost all of them and put them online for you to see.
-
->It's worth noting that while my solutions work, there may be more efficent methods to achieve the similar results. I only used techniques or ideas from the book to keep things familiar for new programmers. Some of the chapters are outdated and the modules may have different syntax now, but I tried my best to point out any changes in the code. If you run into any issues with my code, let me know and I'll do my best to update it for compatibility newer versions.
+>The book is meant for people who are new to programming and want to learn how to write programs that can help with everyday tasks. It's worth noting that while my solutions work, there may be more efficent methods to achieve the similar results. I only used techniques or ideas from the book to keep things familiar for new programmers. Some of the chapters are outdated and the modules may have different syntax now, but I tried my best to point out any changes in the code. If you run into any issues with my code, let me know and I'll do my best to update it for compatibility newer versions.
 
 >Furthermore, I've included comments to explain each block of code. Subscribe to my YouTube channel (https://www.youtube.com/@jimfrvnklin) for more details on how the code works. I hope that putting everything together will make it easier for you.
 
