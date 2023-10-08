@@ -12,3 +12,4 @@ def display_inventory(inventory):
 
 
 display_inventory(stuff)
+print('hello world')
