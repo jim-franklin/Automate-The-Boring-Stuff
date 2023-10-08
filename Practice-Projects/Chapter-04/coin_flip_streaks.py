@@ -24,5 +24,5 @@ for experimentNumber in range(10000):
         if streak_length == 6:
             numberOfStreaks += 1
 
-print(numberOfStreaks)
+# print(numberOfStreaks)
 print("Chance of streak: %s%%" % (numberOfStreaks / 100))
