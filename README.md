@@ -30,7 +30,7 @@
 
 #### Chapter 05
 
-- [Chess Dictionary Validator](Practice-Projects/Chapter-05/chess_dict_validator.py)
+- [Chess Dictionary Validator](Practice-Projects/Chapter-05/chess_validator.py)
 
 - [Fantasy Game Inventory](Practice-Projects/Chapter-05/inventory.py)
 
