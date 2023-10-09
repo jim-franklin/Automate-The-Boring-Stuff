@@ -30,9 +30,11 @@
 
 #### Chapter 05
 
-- [Fantasy Game Inventory](Practice-Projects/Ch%2005%20-%20Fantasy%20Game%20Inventory.py)
+- [Chess Dictionary Validator](Practice-Projects/Chapter-05/chess_dict_validator.py)
 
-- [List to Dictionary](Practice-Projects/Ch%2005%20-%20List%20to%20Dictionary.py)
+- [Fantasy Game Inventory](Practice-Projects/Chapter-05/inventory.py)
+
+- [List to Dictionary](Practice-Projects/Chapter-05/add_to_inventory.py)
 
 #### Chapter 06
 
