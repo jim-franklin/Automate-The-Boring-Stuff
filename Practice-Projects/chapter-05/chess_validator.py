@@ -89,4 +89,3 @@ my_board = {
 
 # call the function and print its result
 print(isValidChessboard(my_board))
-print("hello")
