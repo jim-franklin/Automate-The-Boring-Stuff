@@ -24,13 +24,11 @@ def isValidChessboard(chess_board):
     valid_space_numbers = "12345678"
     valid_space_letters = "abcdefgh"
     valid_piece_colors = 'bw'
-    valid_piece_names = ['pawn', 'knight', 'bishop', 'rook', 'queen', 'king']
+    valid_piece_names = ['pawn', 'knight', 'bishop', 'rook', 'queen', 'king'] 
 
     # create separate dictionaries for both black and white pieces.
     black_pieces = boardAnalysis(chess_board, 'b')
-    # print(black_pieces)
     white_pieces = boardAnalysis(chess_board, 'w')
-    # print(white_pieces)
 
     # fish out the value of black or white pawns from each dictionary created
     # above using the .get() function.
