@@ -1,16 +1,16 @@
 # Automate the Boring Stuff
->This collection of solutions to the practice projects found in the second edition of "Automate the Boring Stuff with Python" by Al Sweigart, will help you navigate through the book successfully. You can access the book online at https://automatetheboringstuff.com/ or purchase it from https://nostarch.com/automatestuff or Amazon.
 
+>This collection of solutions to the practice projects found in the second edition of "Automate the Boring Stuff with Python" by Al Sweigart, will help you navigate through the book successfully. You can access the book online at <https://automatetheboringstuff.com/> or purchase it from <https://nostarch.com/automatestuff/> or Amazon.
 >The book is meant for people who are new to programming and want to learn how to write programs that can help with everyday tasks. It's worth noting that while my solutions work, there may be more efficent methods to achieve similar results. I only used techniques or ideas from the book to keep things familiar. Some of the chapters are outdated and the modules may have different syntax now, but I tried my best to point out any changes in the code. If you run into any issues with my code, let me know and I'll do my best to update it for compatibility with newer versions.
-
->Furthermore, I've included comments to explain each block of code. Subscribe to my YouTube channel (https://www.youtube.com/@jimfrvnklin) for more details on how the code works.
-
+>Furthermore, I've included comments to explain each block of code. Subscribe to my YouTube channel (<https://www.youtube.com/@jimfrvnklin/>) for more details on how the code works.
 >Finally, I'm not a professional programmer and so I apologize if there are any mistakes in my code. I did my best to follow the PEP 8 guidelines when writing it, and I welcome any comments or suggestions you may have.
 
 ---
+
 ## 📚 Table of Contents
 
 ### 📃 Practice Projects
+
 <details>
 <summary>Order by Chapter</summary>
 
@@ -71,35 +71,23 @@
 </details>
 
 ### 📃 Extra Projects
+
 <details>
 <summary>Order by Chapter</summary>
 
 #### Chapter 05
 
-
-
 #### Chapter 06
-
-
 
 #### Chapter 07
 
-
-
 #### Chapter 08
-
-
 
 #### Chapter 09
 
-
-
 #### Chapter 10
 
-
-
 </details>
-
 
 ---
 ---
