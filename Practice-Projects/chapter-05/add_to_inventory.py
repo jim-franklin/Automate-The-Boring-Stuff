@@ -2,9 +2,9 @@ def addToInventory(inventory, addedItems):
     
     for item in addedItems:
         inventory.setdefault(item, 0)   # set the value of a non-exitent key to 0
-        inventory[item] += 1    # add 1 to the value of an item in the inventory if item
-                                # can be found in `addedItems` list
-    
+        # add 1 to the value of an item in the inventory if item can be found in `addedItems` list
+        inventory[item] += 1    
+                                
     item_total = 0  # set total number of items to 0
     
     for k, v in inventory.items():
