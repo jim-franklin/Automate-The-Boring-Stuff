@@ -23,7 +23,7 @@ def isValidChessboard(chess_board):
     # valid variables.
     valid_space_numbers = "12345678"
     valid_space_letters = "abcdefgh"
-    valid_piece_colors = 'bw'
+    valid_piece_colors = "bw"
     valid_piece_names = ['pawn', 'knight', 'bishop', 'rook', 'queen', 'king'] 
 
     # create separate dictionaries for both black and white pieces.
