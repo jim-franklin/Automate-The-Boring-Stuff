@@ -91,5 +91,4 @@ Finally, I'm not a professional programmer and so I apologize if there are any m
 </details>
 
 ---
----
 Automate the Boring Stuff with Python by Al Sweigart was the first book I used when learning Python and I highly recommend it. Prior to starting my Python journey, I had worked on assignments and projects that required knowledge in Excel VBA, MatLab and C++. The book uses an IDE as its main source of writing code and I personally used Pycharm by JetBrains. VS Code by Microsoft is a good alternative you may opt in for. I highly suggest you use an IDE, especially if you are new to programming. It will help you prevent making mistakes as well as familiarizing yourself with the PEP 8 guidelines.
